@@ -23,23 +23,22 @@ The upcoming v0.1 will add missing miscellaneous sounds in the game, stuff like 
 
 #### TOOLS
 ```
-geiger_low
-geiger_medium
-geiger_high
-jackhammer
-pickaxe
-oxytorch
-hacksaw
-axe
-shovel
-crowbar
-boltcutters
-compactor
-gaspump
-noise_emitter
-repair_kit
-camera_shutter
-handcuffs
+geiger_low [DONE]
+geiger_medium [DONE] 
+geiger_high [DONE]
+jackhammer [DONE]
+pickaxe [DONE]
+oxytorch [DONE]
+hacksaw [DONE]
+axe [DONE]
+shovel [DONE]
+crowbar [DONE]
+boltcutters [DONE]
+gaspump [DONE]
+noise_emitter [DONE]
+repair_kit [DONE]
+camera_shutter [DONE]
+handcuffs [DONE]
 ```
 
 #### TRAPS
