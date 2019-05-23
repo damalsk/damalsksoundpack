@@ -43,35 +43,35 @@ handcuffs [DONE]
 
 #### TRAPS
 ```
-bear_trap
-snare
-glass_caltrop
-bubble_wrap
-glass
-dissector
-teleport
+bear_trap [DONE]
+snare [DONE]
+glass_caltrop [DONE]
+bubble_wrap [DONE]
+glass [DONE]
+dissector [DONE]
+teleport [DONE]
 ```
 
 #### MISCELLANEOUS
 ```
-flashbang
-flash
+flashbang [DONE]
+flash [DONE] 
 shockwave
-earthquake
-stairs_movement
-stones_grinding
-bomb_ticking
-lit_fuse
-cow_bell
-bell
+earthquake [DONE]
+stairs_movement [DONE]
+stones_grinding [DONE]
+bomb_ticking [DONE]
+lit_fuse [DONE]
+cow_bell [DONE]
+bell [DONE]
 timber
-whistle
-airhorn
-horn_bicycle
+whistle [DONE]
+airhorn [DONE] 
+horn_bicycle [DONE]
 servomotor
-beep
-ding
+beep [DONE]
+ding [DONE]
 puff
-inhale
-exhale
+inhale [DONE]
+exhale [DONE]
 ```
