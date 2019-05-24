@@ -1,0 +1,83 @@
+[
+    {
+        "type": "playlist",
+        "playlists":
+        [
+			{
+                "id" : "title",
+                "shuffle" : true,
+                "files" : [
+				    {
+                        "file": "music/Aegri Somnia - Les Temps Ont Change.ogg",
+                        "volume": 40
+                    },			
+					{
+                        "file": "music/Alt3r3d Stat3 - Room 333.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Atrium Carceri - The Machine.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Cryobiosis - As the World Decays.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Cthulhu - A Cryo Chamber Collaboration.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Dark Matter - Every Empty Evening.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Dronny Darko - Devourer.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/EXIMIA - Extinction.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/EXIMIA - World Without Man.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/God Body Disconnect - Descend with Demons.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Lustmord - The Last Days.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/MONST3R - The Abandoned.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Projekt Noire - Kingdom av Noire World.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Silent hill - Summer Snow.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/The Blacklight Automaton - Shadow People.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Thomas Koner - Background.ogg",
+                        "volume": 40
+                    },
+					{
+                        "file": "music/Ugasanie - Endless Winter.ogg",
+                        "volume": 40
+                    }
+				
+                ]
+            }
+        ]
+    }
+]

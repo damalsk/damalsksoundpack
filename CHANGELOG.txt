@@ -1,0 +1,44 @@
+CHANGELOG 24/05/2019
+35 ADDITIONS | 3 CHANGES | 2 REMOVALS
+
+
++ Added basic vehicle sfx
++ Added geiger counter sfx (low, medium, high)
++ Added jackhammer sfx
++ Added axe sfx
++ Added camera sfx
++ Added crowbar sfx
++ Added gas pump sfx
++ Added hacksaw sfx
++ Added boltcutters sfx
++ Added handcuffs sfx
++ Added noise emitter sfx
++ Added oxytorch sfx
++ Added pick axe sfx
++ Added shovel
++ Added repair kit sfx
++ Added bear trap sfx
++ Added snare sfx
++ Added glass caltrop sfx
++ Added bubble wrap sfx
++ Added glass trap sfx
++ Added dissector sfx
++ Added teleport sfx
++ Added radio static sfx
++ Added bell sfx
++ Added cow bell sfx
++ Added bomb ticking sfx
++ Added earthquake sfx
++ Added lit fuse sfx
++ Added stairs movement sfx
++ Added stones grinding sfx
++ Added radio inaudible chatter sfx
++ Added fire ignition sfx
++ Added inhale sfx
++ Added exhale sfx
++ Added puff sfx
+= Changed menu sfx
+= Changed 2 explosion sfx
+= Changed danger sfx
+- Removed a few night time ambient sfx (they were too noisy)
+- Removed a lot of songs
