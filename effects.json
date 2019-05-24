@@ -539,7 +539,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "inhale",
-        "volume" : 00,
+        "volume" : 90,
         "files" : [
             "player/other/inhale.wav"
         ]
