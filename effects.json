@@ -74,8 +74,8 @@
         "files" : [
             "env/explosions/explosion_large_1.ogg",
 			"env/explosions/explosion_large_2.ogg",
-			"env/explosions/explosion_large_3.wav",
-			"env/explosions/explosion_large_4.wav",
+			"env/explosions/explosion_large_3.ogg",
+			"env/explosions/explosion_large_4.ogg",
 			"env/explosions/explosion_large_5.ogg",
 			"env/explosions/explosion_large_6.ogg"
         ]
@@ -469,7 +469,7 @@
         "variant" : "static",
         "volume" : 90,
         "files" : [
-            "effects/misc/.wav"
+            "effects/misc/radio_static.wav"
         ]
     },
 	{
@@ -539,7 +539,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "inhale",
-        "volume" : 00,
+        "volume" : 90,
         "files" : [
             "player/other/inhale.wav"
         ]
