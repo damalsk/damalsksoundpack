@@ -474,6 +474,18 @@
     },
 	{
         "type": "sound_effect",
+        "id" : "radio",
+        "variant" : "inaudible_chatter",
+        "volume" : 90,
+        "files" : [
+            "effects/misc/radio_inaudible_chatter_1.wav", 
+			"effects/misc/radio_inaudible_chatter_2.wav", 
+			"effects/misc/radio_inaudible_chatter_3.wav", 
+			"effects/misc/radio_inaudible_chatter_4.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
         "id" : "misc",
         "variant" : "stairs_movement",
         "volume" : 90,
@@ -538,28 +550,245 @@
 	{
         "type": "sound_effect",
         "id" : "misc",
-        "variant" : "inhale",
-        "volume" : 90,
+        "variant" : "cough",
+        "volume" : 70,
         "files" : [
-            "player/other/inhale.wav"
+            "player/other/coughing_1.wav",
+			"player/other/coughing_2.wav",
+			"player/other/coughing_3.wav"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "misc",
-        "variant" : "exhale",
-        "volume" : 90,
+        "variant" : "spitting",
+        "volume" : 70,
         "files" : [
-            "player/other/exhale.wav"
+            "monster/spitting_1.wav", 
+			"monster/spitting_2.wav", 
+			"monster/spitting_3.wav"			
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "misc",
-        "variant" : "puff",
-        "volume" : 90,
+        "variant" : "whistle",
+        "volume" : 70,
         "files" : [
-            "player/other/puff.wav"
+            "effects/misc/whistle.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "airhorn",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/airhorn.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "talking_doll",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/talking_doll.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "creepy_doll",
+        "volume" : 70,
+        "files" : [
+            "effects/misc/creepy_doll.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_zolf",
+        "volume" : 70,
+        "files" : [
+			"monster/mon_wolf_1.wav",
+			"monster/mon_wolf_2.wav",
+			"monster/mon_wolf_3.wav",
+			"monster/mon_wolf_4.wav",
+			"monster/mon_wolf_5.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_shoggoth",
+        "volume" : 70,
+        "files" : [
+			"monster/gurgling_shoggoth_1.wav",
+			"monster/gurgling_shoggoth_2.wav",
+			"monster/gurgling_shoggoth_3.wav",
+			"monster/slurping_shoggoth_1.wav",
+			"monster/slurping_shoggoth_2.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_secubot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_skitterbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_molebot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_hazmatbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_copbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav",
+			"robot/mon_riotbot_1.wav",
+			"robot/mon_riotbot_2.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_robofac_prototype",
+        "volume" : 70,
+        "files" : [
+			"robot/mon_prototype_cyborg_1.wav",
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_riotbot",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav",
+			"robot/mon_riotbot_1.wav",
+			"robot/mon_riotbot_2.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_nursebot_defective",
+        "volume" : 70,
+        "files" : [
+			"robot/bot_default_1.wav",
+			"robot/bot_default_2.wav",
+			"robot/bot_default_3.wav",
+			"robot/bot_default_4.wav",
+			"robot/bot_default_5.wav",
+			"robot/bot_default_6.wav",
+			"robot/bot_default_7.wav",
+			"robot/mon_nursebot_defective_1.wav",
+			"robot/mon_nursebot_defective_2.wav",
+			"robot/mon_nursebot_defective_3.wav",
+			"robot/mon_nursebot_defective_4.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "speech",
+        "variant" : "mon_eyebot",
+        "volume" : 70,
+        "files" : [
+			"robot/mon_eyebot_1.wav",
+			"robot/mon_eyebot_2.wav",
+			"robot/mon_eyebot_3.wav",
+			"robot/mon_eyebot_4.wav",
+			"robot/mon_eyebot_5.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "rattling",
+        "volume" : 70,
+        "files" : [
+            "monster/rattling.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "hissing",
+        "volume" : 70,
+        "files" : [
+            "monster/hissing.wav"
         ]
     }
 ]

@@ -92,6 +92,24 @@
     },
 	{
         "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "engine_stutter_fail",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stall_1.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "vehicle",
+		"variant" : "engine_multi_click_fail",
+        "volume" : 90,
+        "files" : [
+            "vehicle/engine/engine_stall_2.wav"
+        ]
+    },
+	{
+        "type": "sound_effect",
         "id" : "engine_working_external",
 		"variant" : "combustion",
         "volume" : 90,

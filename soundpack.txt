@@ -1,4 +1,4 @@
-#@'s soundpack
+#@' soundpack
 #Name of the soundpack
-NAME: @'s soundpack#Viewing name of the soundpack
-VIEW: @'s soundpack
+NAME: @' soundpack#Viewing name of the soundpack
+VIEW: @' soundpack

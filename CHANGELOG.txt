@@ -1,4 +1,32 @@
-CHANGELOG 24/05/2019
+CHANGELOG (31/05/2019)
+20 ADDITIONS | 3 REMOVALS
+
++ Added a licensed soundtrack (thanks to Arkham Radio)
++ Added 2 new engine stall sfx
++ Added 4 variations for radio inaudible chatter 
++ Added spitting sfx 
++ Added whistle sfx 
++ Added airhorn sfx 
++ Added talking doll sfx 
++ Added creepy doll sfx 
++ Added snake hiss sfx 
++ Added rattling sfx
++ Added eyebot sfx 
++ Added riot bot sfx 
++ Added nurse bot sfx 
++ Added prototype bot sfx
++ Added police bot sfx
++ Added cleaner bot sfx
++ Added miner bot sfx
++ Added security bot sfx
++ Added skitter bot sfx
++ Added shoggoth sfx
+- Removed puff (they were actually for triffids and fungal blossoms, not the player)
+- Removed inhale (they were actually for triffids and fungal blossoms, not the player)
+- Removed exhale (they were actually for triffids and fungal blossoms, not the player)
+
+
+CHANGELOG (24/05/2019)
 35 ADDITIONS | 3 CHANGES | 2 REMOVALS
 
 
