@@ -134,7 +134,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_m_high",
-        "volume" : 100,
+        "volume" : 30,
         "files" : [
             "player/fatigue_m/fatigue_high.ogg"
         ]
@@ -143,7 +143,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_m_med",
-        "volume" : 100,
+        "volume" : 30,
         "files" : [
             "player/fatigue_m/fatigue_med.ogg"
         ]
@@ -152,7 +152,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_m_low",
-        "volume" : 100,
+        "volume" : 30,
         "files" : [
             "player/fatigue_m/fatigue_low.ogg"
         ]
@@ -161,7 +161,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_f_high",
-        "volume" : 100,
+        "volume" : 30,
         "files" : [
             "player/fatigue_f/fatigue_high.ogg"
         ]
@@ -170,7 +170,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_f_med",
-        "volume" : 100,
+        "volume" : 30,
         "files" : [
             "player/fatigue_f/fatigue_med.ogg"
         ]
@@ -179,7 +179,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "fatigue_f_low",
-        "volume" : 100,
+        "volume" : 30,
         "files" : [
             "player/fatigue_f/fatigue_low.ogg"
         ]
