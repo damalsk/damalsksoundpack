@@ -3,7 +3,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "hit_vehicle",
-        "volume" : 70,
+        "volume" : 40,
         "files" : [
             "env/vehicle/smash_vehicle_1.ogg",
 			"env/vehicle/smash_vehicle_2.ogg",
