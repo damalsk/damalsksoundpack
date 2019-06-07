@@ -3,7 +3,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_pillow_fort",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -21,7 +21,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_pillow_fort",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -39,7 +39,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_leather_tarp",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -57,7 +57,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_leather_tarp",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -75,7 +75,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_tourist_table",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -93,7 +93,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_tourist_table",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -111,7 +111,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_metal_butcher_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -129,7 +129,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_metal_butcher_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -147,7 +147,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_butcher_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -165,7 +165,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_butcher_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -183,7 +183,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fiber_mat",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -201,7 +201,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fiber_mat",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -219,7 +219,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_smoking_rack_active",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -237,7 +237,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_smoking_rack_active",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -255,7 +255,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_mailbox",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -273,7 +273,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_mailbox",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -291,7 +291,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_rack_coat",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -309,7 +309,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_rack_coat",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -327,7 +327,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_stool",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -345,7 +345,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_stool",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -363,7 +363,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_target",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -381,7 +381,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_target",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -399,7 +399,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_recycle_bin",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/hit_plastic_1.ogg",
 			"terrain/plastic/hit_plastic_2.ogg",
@@ -417,7 +417,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_recycle_bin",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/smash_plastic_1.ogg",
 			"terrain/plastic/smash_plastic_2.ogg",
@@ -430,7 +430,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_autodoc_couch",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -448,7 +448,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_autodoc_couch",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -466,7 +466,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_autodoc",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/hit_plastic_1.ogg",
 			"terrain/plastic/hit_plastic_2.ogg",
@@ -484,7 +484,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_autodoc",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/console/smash_console_1.ogg",
 			"terrain/console/smash_console_2.ogg",
@@ -502,7 +502,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_tatami",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -520,7 +520,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_tatami",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -538,7 +538,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_brazier",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -556,7 +556,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_brazier",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -574,7 +574,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_grave_monument",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -592,7 +592,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_grave_monument",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -610,7 +610,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_grave_stone_old",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -628,7 +628,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_grave_stone_old",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -646,7 +646,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_grave_stone",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -664,7 +664,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_grave_stone",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -682,7 +682,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_grave_head",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -700,7 +700,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_grave_head",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -718,7 +718,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_shackle",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
            "terrain/metal/hit_chainfence_1.ogg",
            "terrain/metal/hit_chainfence_2.ogg",
@@ -736,7 +736,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_shackle",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/smashes/smash_chainfence_1.ogg"
         ]
@@ -745,7 +745,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_slab",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -763,7 +763,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_slab",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -781,7 +781,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_boulder_large",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -799,7 +799,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_boulder_large",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -817,7 +817,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_boulder_medium",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -835,7 +835,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_boulder_medium",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -853,7 +853,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_boulder_small",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -871,7 +871,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_boulder_small",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -889,7 +889,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_ladder",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -907,7 +907,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_ladder",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -925,7 +925,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_clay_kiln",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -943,7 +943,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_clay_kiln",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -961,7 +961,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_forge_rock",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -979,7 +979,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_forge_rock",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -997,7 +997,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_smoking_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -1015,7 +1015,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_smoking_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -1033,7 +1033,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_aut_gas_console_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/hit_plastic_1.ogg",
 			"terrain/plastic/hit_plastic_2.ogg",
@@ -1051,7 +1051,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_aut_gas_console_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/console/smash_console_1.ogg",
 			"terrain/console/smash_console_2.ogg",
@@ -1069,7 +1069,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_aut_gas_console",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/hit_plastic_1.ogg",
 			"terrain/plastic/hit_plastic_2.ogg",
@@ -1087,7 +1087,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_aut_gas_console",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/console/smash_monitor_1.ogg",
 			"terrain/console/smash_monitor_2.ogg",
@@ -1105,7 +1105,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_robotic_arm",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1123,7 +1123,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_robotic_arm",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1141,7 +1141,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_kiln_metal_full",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1159,7 +1159,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_kiln_metal_full",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1177,7 +1177,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_kiln_metal_empty",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1195,7 +1195,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_kiln_metal_empty",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1213,7 +1213,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_kiln_full",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -1231,7 +1231,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_kiln_full",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -1249,7 +1249,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_kiln_empty",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -1267,7 +1267,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_kiln_empty",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -1285,7 +1285,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_canvas_floor",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -1303,7 +1303,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_canvas_floor",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -1321,7 +1321,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_floor_canvas",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -1339,7 +1339,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_floor_canvas",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -1357,7 +1357,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_standing_tank",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1375,7 +1375,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_standing_tank",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1393,7 +1393,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_displaycase_b",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -1411,7 +1411,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_displaycase_b",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -1429,7 +1429,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_displaycase",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/hit_glass_1.ogg",
 			"terrain/glass/hit_glass_2.ogg",
@@ -1447,7 +1447,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_displaycase",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/smash_glass_1.ogg",
 			"terrain/glass/smash_glass_2.ogg",
@@ -1465,7 +1465,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_treadmill",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1483,7 +1483,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_treadmill",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1501,7 +1501,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_ergometer",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1519,7 +1519,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_ergometer",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1537,7 +1537,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_pinball_machine",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1555,7 +1555,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_pinball_machine",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1573,7 +1573,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_arcade_machine",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1591,7 +1591,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_arcade_machine",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -1609,7 +1609,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_vending_reinforced",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/hit_glass_1.ogg",
 			"terrain/glass/hit_glass_2.ogg",
@@ -1627,7 +1627,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_vending_reinforced",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/smash_glass_1.ogg",
 			"terrain/glass/smash_glass_2.ogg",
@@ -1645,7 +1645,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_egg_sacke",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/hit_flesh_1.ogg",
 			"terrain/other/hit_flesh_2.ogg",
@@ -1658,7 +1658,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_egg_sacke",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/smash_flesh_1.ogg",
 			"terrain/other/smash_flesh_2.ogg",
@@ -1671,7 +1671,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_egg_sackws",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/hit_flesh_1.ogg",
 			"terrain/other/hit_flesh_2.ogg",
@@ -1684,7 +1684,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_egg_sackws",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/smash_flesh_1.ogg",
 			"terrain/other/smash_flesh_2.ogg",
@@ -1697,7 +1697,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_egg_sackcs",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/hit_flesh_1.ogg",
 			"terrain/other/hit_flesh_2.ogg",
@@ -1710,7 +1710,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_egg_sackcs",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/smash_flesh_1.ogg",
 			"terrain/other/smash_flesh_2.ogg",
@@ -1723,7 +1723,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_egg_sackbw",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/hit_flesh_1.ogg",
 			"terrain/other/hit_flesh_2.ogg",
@@ -1736,7 +1736,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_egg_sackbw",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/smash_flesh_1.ogg",
 			"terrain/other/smash_flesh_2.ogg",
@@ -1749,7 +1749,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_still",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1767,7 +1767,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_still",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1785,7 +1785,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_anvil",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1803,7 +1803,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_anvil",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1821,7 +1821,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_forge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1839,7 +1839,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_forge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
 			"terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -1857,7 +1857,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_lilypad",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1875,7 +1875,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_lilypad",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1893,7 +1893,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_sunflower",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1911,7 +1911,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_sunflower",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1929,7 +1929,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_lotus",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1947,7 +1947,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_lotus",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1965,7 +1965,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_black_eyed_susan",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -1983,7 +1983,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_black_eyed_susan",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2001,7 +2001,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_lily",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2019,7 +2019,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_lily",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2037,7 +2037,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_cattails",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2055,7 +2055,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_cattails",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2073,7 +2073,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_chamomile",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2091,7 +2091,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_chamomile",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2109,7 +2109,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_flower_spurge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2127,7 +2127,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_flower_spurge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2145,7 +2145,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_flower_tulip",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2163,7 +2163,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_flower_tulip",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2181,7 +2181,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_dandelion",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2199,7 +2199,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_dandelion",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2217,7 +2217,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_flower_marloss",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2235,7 +2235,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_flower_marloss",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2253,7 +2253,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_datura",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2271,7 +2271,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_datura",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2289,7 +2289,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_dahlia",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2307,7 +2307,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_dahlia",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2325,7 +2325,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bluebell",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2343,7 +2343,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bluebell",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2361,7 +2361,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_mannequin",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -2379,7 +2379,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_mannequin",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -2397,7 +2397,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_statue",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -2415,7 +2415,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_statue",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -2433,7 +2433,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_indoor_plant_y",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/hit_ceramic_1.ogg",
 			"terrain/ceramic/hit_ceramic_2.ogg",
@@ -2451,7 +2451,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_indoor_plant_y",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/smash_ceramic_1.ogg",
 			"terrain/ceramic/smash_ceramic_2.ogg",
@@ -2469,7 +2469,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_wood_keg",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -2487,7 +2487,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_wood_keg",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -2505,7 +2505,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fvat_full",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -2523,7 +2523,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fvat_full",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -2541,7 +2541,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fvat_empty",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -2559,7 +2559,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fvat_empty",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -2577,7 +2577,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_plant_harvest",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2595,7 +2595,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_plant_harvest",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2613,7 +2613,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_plant_mature",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2631,7 +2631,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_plant_mature",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2649,7 +2649,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_plant_seedling",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2667,7 +2667,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_plant_seedling",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -2685,7 +2685,7 @@
         "type": "sound_effect",
         "id" : "close_door",
         "variant" : "f_safe_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
 			"env/open_close/door/safe/close_1.ogg",
 			"env/open_close/door/safe/close_2.ogg",
@@ -2698,7 +2698,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_safe_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
 		    "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -2717,7 +2717,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_safe_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -2735,7 +2735,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_gun_safe_el",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/door/safe/open_1.ogg",
 			"env/open_close/door/safe/open_2.ogg",
@@ -2748,7 +2748,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_gun_safe_el",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -2766,7 +2766,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_gun_safe_el",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -2784,7 +2784,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_gunsafe_mj",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/door/safe/open_1.ogg",
 			"env/open_close/door/safe/open_2.ogg",
@@ -2797,7 +2797,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_gunsafe_mj",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -2815,7 +2815,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_gunsafe_mj",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -2833,7 +2833,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_gunsafe_ml",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/door/safe/open_1.ogg",
 			"env/open_close/door/safe/open_2.ogg",
@@ -2846,7 +2846,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_gunsafe_ml",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -2864,7 +2864,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_gunsafe_ml",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -2882,7 +2882,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_safe_l",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/door/safe/open_1.ogg",
 			"env/open_close/door/safe/open_2.ogg",
@@ -2895,7 +2895,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_safe_l",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -2913,7 +2913,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_safe_l",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -2931,7 +2931,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_safe_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/door/safe/open_1.ogg",
 			"env/open_close/door/safe/open_2.ogg",
@@ -2944,7 +2944,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_safe_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -2962,7 +2962,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_safe_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -2980,7 +2980,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fungal_clump",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -2998,7 +2998,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fungal_clump",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -3016,7 +3016,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fungal_mass",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -3034,7 +3034,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fungal_mass",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -3052,7 +3052,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_flower_fungal",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -3070,7 +3070,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_flower_fungal",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -3088,7 +3088,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_mutpoppy",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -3106,7 +3106,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_mutpoppy",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -3124,7 +3124,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "animalskin floor",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3142,7 +3142,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "animalskin floor",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3160,7 +3160,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_skin_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3178,7 +3178,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_skin_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3196,7 +3196,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_skin_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3214,7 +3214,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_skin_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3232,7 +3232,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_skin_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3250,7 +3250,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_skin_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3268,7 +3268,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_skin_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3286,7 +3286,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_skin_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3304,7 +3304,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fema_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3322,7 +3322,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fema_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3340,7 +3340,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_center_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3358,7 +3358,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_center_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3376,7 +3376,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_large_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3394,7 +3394,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_large_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3412,7 +3412,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3430,7 +3430,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_groundsheet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3448,7 +3448,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_large_canvas_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3466,7 +3466,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_large_canvas_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3484,7 +3484,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_large_canvas_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3502,7 +3502,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_large_canvas_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3520,7 +3520,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_canvas_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3538,7 +3538,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_canvas_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3556,7 +3556,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_canvas_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3574,7 +3574,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_canvas_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3592,7 +3592,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_large_canvas_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3610,7 +3610,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_large_canvas_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3628,7 +3628,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_canvas_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -3646,7 +3646,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_canvas_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -3664,7 +3664,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_crate_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -3682,7 +3682,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_crate_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -3700,7 +3700,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_crate_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -3718,7 +3718,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_crate_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -3736,7 +3736,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_coffin_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -3754,7 +3754,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_coffin_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -3772,7 +3772,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_coffin_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -3790,7 +3790,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_coffin_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -3808,7 +3808,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_dive_block",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -3826,7 +3826,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_dive_block",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -3844,7 +3844,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_dumpster",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -3862,7 +3862,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_dumpster",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -3880,7 +3880,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_vending_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -3898,7 +3898,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_vending_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -3916,7 +3916,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_vending_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/hit_glass_1.ogg",
 			"terrain/glass/hit_glass_2.ogg",
@@ -3934,7 +3934,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_vending_c",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/smash_glass_1.ogg",
 			"terrain/glass/smash_glass_2.ogg",
@@ -3952,7 +3952,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bigmirror_b",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -3970,7 +3970,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bigmirror_b",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -3988,7 +3988,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bigmirror",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/hit_glass_1.ogg",
 			"terrain/glass/hit_glass_2.ogg",
@@ -4006,7 +4006,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bigmirror",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/smash_glass_1.ogg",
 			"terrain/glass/smash_glass_2.ogg",
@@ -4024,7 +4024,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_dryer",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4042,7 +4042,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_dryer",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4060,7 +4060,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_washer",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4078,7 +4078,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_washer",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4096,7 +4096,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bookcase",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4114,7 +4114,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bookcase",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -4132,7 +4132,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4150,7 +4150,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_rack",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4168,7 +4168,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_dresser",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4186,7 +4186,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_dresser",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -4204,7 +4204,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_glass_fridge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/glass/hit_glass_1.ogg",
 			"terrain/glass/hit_glass_2.ogg",
@@ -4222,7 +4222,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_glass_fridge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/other/smash_metglass_1.ogg",
 			"terrain/other/smash_metglass_2.ogg",
@@ -4240,7 +4240,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_sink",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/smash_ceramic_1.ogg",
 			"terrain/ceramic/smash_ceramic_2.ogg",
@@ -4258,7 +4258,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_sink",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/hit_ceramic_1.ogg",
 			"terrain/ceramic/hit_ceramic_2.ogg",
@@ -4276,7 +4276,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fridge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4294,7 +4294,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fridge",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4312,7 +4312,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_pool_table",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4330,7 +4330,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_pool_table",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -4348,7 +4348,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_sign",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4366,7 +4366,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_sign",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4384,7 +4384,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_table",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4402,7 +4402,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_table",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -4420,7 +4420,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_lane",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4438,7 +4438,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_lane",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4456,7 +4456,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_ball_mach",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4474,7 +4474,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_ball_mach",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
 		    "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4492,7 +4492,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_exercise",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4510,7 +4510,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_exercise",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4528,7 +4528,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_desk",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4546,7 +4546,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_desk",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4564,7 +4564,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_trashcan",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/hit_plastic_1.ogg",
 			"terrain/plastic/hit_plastic_2.ogg",
@@ -4582,7 +4582,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_trashcan",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/smash_plastic_1.ogg",
 			"terrain/plastic/smash_plastic_2.ogg",
@@ -4595,7 +4595,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_cupboard",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4613,7 +4613,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_cupboard",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4631,7 +4631,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_sofa",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -4649,7 +4649,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_sofa",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -4667,7 +4667,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_armchair",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -4685,7 +4685,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_armchair",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4703,7 +4703,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_chair",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -4721,7 +4721,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_chair",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4739,7 +4739,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bathtub",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/smash_ceramic_1.ogg",
 			"terrain/ceramic/smash_ceramic_2.ogg",
@@ -4757,7 +4757,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bathtub",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/hit_ceramic_1.ogg",
 			"terrain/ceramic/hit_ceramic_2.ogg",
@@ -4775,7 +4775,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_shower",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/smash_ceramic_1.ogg",
 			"terrain/ceramic/smash_ceramic_2.ogg",
@@ -4793,7 +4793,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_shower",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/hit_ceramic_1.ogg",
 			"terrain/ceramic/hit_ceramic_2.ogg",
@@ -4811,7 +4811,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_fireplace",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/smash_rock_1.ogg",
 			"terrain/rock/smash_rock_2.ogg",
@@ -4829,7 +4829,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_fireplace",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/rock/hit_rock_1.ogg",
 			"terrain/rock/hit_rock_2.ogg",
@@ -4847,7 +4847,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_woodstove",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4865,7 +4865,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_woodstove",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4883,7 +4883,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_oven",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -4901,7 +4901,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_oven",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -4919,7 +4919,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_straw_bed",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -4937,7 +4937,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_straw_bed",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4955,7 +4955,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_makeshift_bed",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -4973,7 +4973,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_makeshift_bed",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -4991,7 +4991,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_toilet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/smash_ceramic_1.ogg",
 			"terrain/ceramic/smash_ceramic_2.ogg",
@@ -5009,7 +5009,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_toilet",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/ceramic/hit_ceramic_1.ogg",
 			"terrain/ceramic/hit_ceramic_2.ogg",
@@ -5027,7 +5027,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bed",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -5045,7 +5045,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bed",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
@@ -5063,7 +5063,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_indoor_plant",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/smash_plastic_1.ogg",
 			"terrain/plastic/smash_plastic_2.ogg",
@@ -5076,7 +5076,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_indoor_plant",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/plastic/hit_plastic_1.ogg",
 			"terrain/plastic/hit_plastic_2.ogg",
@@ -5094,7 +5094,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bulletin",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -5112,7 +5112,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bulletin",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -5130,7 +5130,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_sandbag_half",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -5148,7 +5148,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_sandbag_half",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -5166,7 +5166,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_sandbag_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/hit_cloth_1.ogg",
 			"terrain/cloth/hit_cloth_2.ogg",
@@ -5184,7 +5184,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_sandbag_wall",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/cloth/smash_cloth_1.ogg",
 			"terrain/cloth/smash_cloth_2.ogg",
@@ -5202,7 +5202,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_barricade_road",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -5220,7 +5220,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_barricade_road",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -5238,7 +5238,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_hay",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -5256,7 +5256,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_hay",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/tree/hit_grass_1.ogg",
 			"terrain/tree/hit_grass_2.ogg",
@@ -5274,7 +5274,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_canvas_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
 			"env/open_close/tent/zippero_1.ogg",
 			"env/open_close/tent/zippero_2.ogg",
@@ -5287,7 +5287,7 @@
         "type": "sound_effect",
         "id" : "close_door",
         "variant" : "f_canvas_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/tent/zipperc_1.ogg",
 			"env/open_close/tent/zipperc_2.ogg",
@@ -5300,7 +5300,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_large_canvas_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/tent/zippero_1.ogg",
 			"env/open_close/tent/zippero_2.ogg",
@@ -5313,7 +5313,7 @@
         "type": "sound_effect",
         "id" : "close_door",
         "variant" : "f_large_canvas_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
 			"env/open_close/tent/zipperc_1.ogg",
 			"env/open_close/tent/zipperc_2.ogg",
@@ -5326,7 +5326,7 @@
         "type": "sound_effect",
         "id" : "open_door",
         "variant" : "f_skin_door",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/tent/zippero_1.ogg",
 			"env/open_close/tent/zippero_2.ogg",
@@ -5339,7 +5339,7 @@
         "type": "sound_effect",
         "id" : "close_door",
         "variant" : "f_skin_door_o",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "env/open_close/tent/zipperc_1.ogg",
 			"env/open_close/tent/zipperc_2.ogg",
@@ -5352,7 +5352,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_locker",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/hit_metal_1.ogg",
 			"terrain/metal/hit_metal_2.ogg",
@@ -5370,7 +5370,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_locker",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/metal/smash_metal_1.ogg",
 			"terrain/metal/smash_metal_2.ogg",
@@ -5388,7 +5388,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_bench",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -5406,7 +5406,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_bench",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/crash_wooden_1.ogg",
 			"terrain/wood/crash_wooden_2.ogg",
@@ -5424,7 +5424,7 @@
         "type": "sound_effect",
         "id" : "smash_fail",
         "variant" : "f_counter",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/hit_wooden_1.ogg",
 			"terrain/wood/hit_wooden_2.ogg",
@@ -5442,7 +5442,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "f_counter",
-        "volume" : 100,
+        "volume" : 50,
         "files" : [
             "terrain/wood/smash_wooden_1.ogg",
 			"terrain/wood/smash_wooden_2.ogg",
